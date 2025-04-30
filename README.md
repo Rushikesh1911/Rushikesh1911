@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rushikeshk36585" target="blank"><img src="https://img.shields.io/twitter/follow/rushikeshk36585?logo=twitter&style=for-the-badge" alt="rushikeshk36585" /></a> </p>
 
-- 🔭 I’m currently working on Monetera and Fintaxa **Monetra and Fintaxa**
+- 🔭 I’m currently working with   **Codence Studio , Monetra and Fintaxa**
 
-- 💬 Ask me about **express , mongodb , react**
+- 💬 Ask me about **Node.js(Express) , MongoDB , React**
 
 - 📫 How to reach me **kulkarnirushikesh905@gmail.com**
 
-- ⚡ Fun fact **I am**
+- ⚡ Fun fact **I am doing well at this**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
