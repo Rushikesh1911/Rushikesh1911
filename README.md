@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rushikeshk36585" target="blank"><img src="https://img.shields.io/twitter/follow/rushikeshk36585?logo=twitter&style=for-the-badge" alt="rushikeshk36585" /></a> </p>
 
-- 🔭 I’m currently working on   **NutriMatch ,  Fintaxa**
+- 🔭 I’m currently working on   **NutriMatch ,  Medilink , MindSpace**
 
 - 💬 Ask me about **Node.js(Express) , MongoDB , React**
 
