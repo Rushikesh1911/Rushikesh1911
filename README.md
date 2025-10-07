@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MindSpace**
 
-- 🌱 I’m currently learning **Typescript and Next.js**
+- 🌱 I’m currently learning **ML & Typescript and Next.js**
 
 - 💬 Ask me about **MERN , scalable applications**
 
