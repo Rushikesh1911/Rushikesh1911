@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/rushikeshk36585" target="blank"><img src="https://img.shields.io/twitter/follow/rushikeshk36585?logo=twitter&style=for-the-badge" alt="rushikeshk36585" /></a> </p>
 
-- 🔭 I’m currently working on **MindSpace**
+- 🔭 I’m currently working on **MindSpace , Chattrix**
 
-- 🌱 I’m currently learning **ML & Typescript and Next.js**
+- 🌱 I’m currently learning **ML & DSA**
 
-- 💬 Ask me about **MERN , scalable applications**
+- 💬 Ask me about **MERN , scalable applications ,ML**
 
 - 📫 How to reach me **kulkarnirushikesh905@gmail.com**
 
